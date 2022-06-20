@@ -5,7 +5,7 @@ First give the script a text file path then how frequent do you want it to outpu
 
 basically create a text file of your choice and give the path of it to the script.
 
-Make sure that the text file you are writing to has write privileges(sudo chmod 777 \[file_path]) and lm-sensors is installed! 
+Make sure that the text file you are writing to has write privileges(sudo chmod 777 path_of_file) and lm-sensors is installed! 
 
 Ctrl + C to quit out of the Script.
 
