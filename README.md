@@ -1,6 +1,7 @@
 # lm-sensors output capture!
 <h5> Bash Script that Captures the output of the lm-sensors command and saves it in a text file.</h5>
 <h3>Usage</h3>
+- Make sure you have lm-sensors installed from your repositories. <br>
 
 - run the the script as ./sensors-capture.sh
 
@@ -8,7 +9,7 @@
 
 - basically create a text file of your choice and give the path of it to the script.
 
-- Make sure that the text file you are writing to has write privileges(sudo chmod 777 path_of_file) and lm-sensors is installed! 
+- Make sure that the text file you are writing to has write privileges(sudo chmod 777 path_of_file)
 
 - The script will run until intrrupted by the user with **Ctrl+c**
 
