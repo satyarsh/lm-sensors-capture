@@ -13,7 +13,7 @@ num=0
 br1='\t\t{'
 br2='}'
 lines='--------------------------------------------'
-text1='\tSensor output is running!'
+text1='\tSensors Capture is running!'
 
 #custom function
 gen_print() {
