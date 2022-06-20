@@ -3,7 +3,7 @@
 echo -n 'Enter The Location Of Your File : '
 read loc
 
-echo -n 'For How Long? : '
+echo -n 'How Frequent? : '
 read time1
 
 #clears the txt file
