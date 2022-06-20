@@ -7,4 +7,4 @@ Make sure that the file you are writing to has write privileges and lm-sensors i
 
 Ctrl + C to quit out of the Script.
 
-sensors_pic1.png
+https://github.com/stking68/lm-sensors-capture/blob/2bea1d9b9669ac52b34c9589815ac7d5f83a218b/sensors_pic1.png
