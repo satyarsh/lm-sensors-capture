@@ -1,5 +1,5 @@
 # lm-sensors output capture!
-a bash Script that Captures the output of the sensors command and saves it in a file.
+a bash Script that Captures the output of the lm-sensors command and saves it in a file.
 
 First give the script a file path then how frequent do you want it to output to a file (value is in seconds)
 
