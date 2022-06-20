@@ -1,8 +1,8 @@
 # lm-sensors output capture!
 <h5> Bash Script that Captures the output of the lm-sensors command and saves it in a text file.</h5>
 <h3>Usage</h3>
-- Make sure you have lm-sensors installed from your repositories.
-**Notice that it is Lm_sensors with lowercase L, some fonts don't differentiate lowercase L and uppercase i**
+- Make sure you have lm-sensors installed from your repositories. <br>
+**Notice that it is Lm-sensors with lowercase L, some fonts don't differentiate lowercase L and uppercase i**
 
 - run the the script as ./sensors_capture.sh
 
