@@ -36,7 +36,7 @@ while true; do
     fi
 
     date >> $loc
-    sensors | grep Core >> $loc
+    sensors >> $loc
     echo $lines >> $loc
 
     if [ $num == 0 ]; then
