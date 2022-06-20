@@ -9,5 +9,4 @@ Make sure that the text file you are writing to has write privileges(sudo chmod 
 
 Ctrl + C to quit out of the Script.
 
-![sensors_pic1](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic1.png)
 ![sensors_pic2](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic2.png)
