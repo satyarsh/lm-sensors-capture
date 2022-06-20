@@ -3,7 +3,7 @@
 <h3>Usage</h3>
 - Make sure you have lm-sensors installed from your repositories. <br>
 
-- run the the script as ./sensors-capture.sh
+- run the the script as ./sensors_capture.sh
 
 - give the script a text file path then how frequent do you want it to output to a file (values are in seconds so a value of 10 will write the output of lm-sensors to your file every 10 seconds)
 
