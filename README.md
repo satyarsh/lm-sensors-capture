@@ -6,3 +6,5 @@ First give the script a file path then how frequent do you want it to output to 
 Make sure that the file you are writing to has write privileges and lm-sensors is installed! 
 
 Ctrl + C to quit out of the Script.
+
+sensors_pic1.png
