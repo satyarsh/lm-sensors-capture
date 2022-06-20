@@ -2,7 +2,6 @@
 
 echo -n 'Enter The Location Of Your File : '
 read loc
-loc='/home/satyar/Desktop/txt.txt'
 
 echo -n 'For How Long? : '
 read time1
