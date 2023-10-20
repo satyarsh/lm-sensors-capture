@@ -1,6 +1,8 @@
 ## lm-sensors output capture!
 
 ##### Bash Script that Captures the output of the lm-sensors command and saves it in a text file.
+![sensors_pic](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic.png)
+![sensors_pic_2](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic_2.png)
 
 
 
@@ -31,6 +33,3 @@ sudo chmod +x sensors_capture.sh
   - Or after rendering a large video project
   - Or compiling your code 
   - The list goes on...
-
-![sensors_pic](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic.png)
-![sensors_pic_2](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic_2.png)
