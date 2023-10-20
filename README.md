@@ -1,6 +1,6 @@
 ## lm-sensors output capture!
 
-### Bash Script that Captures the output of the lm-sensors command and saves it in a text file. <br>
+#### Bash Script that Captures the output of the lm-sensors command and saves it in a text file. <br>
 
 ![sensors_pic](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic.png)
 ![sensors_pic_2](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic_2.png)
