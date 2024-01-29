@@ -2,15 +2,15 @@
 
 #### Bash Script that Captures the output of the lm-sensors command and saves it in a text file. <br>
 
-![sensors_pic](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic.png)
-![sensors_pic_2](https://raw.githubusercontent.com/stking68/lm-sensors-capture/main/sensors_pic_2.png)
+![sensors_pic](https://raw.githubusercontent.com/satyarsh/lm-sensors-capture/main/sensors_pic.png)
+![sensors_pic_2](https://raw.githubusercontent.com/satyarsh/lm-sensors-capture/main/sensors_pic_2.png)
 
 
 
 #### Usage and Installation :
 
 ```
-git clone https://github.com/stking68/lm-sensors-capture.git
+git clone https://github.com/satyarsh/lm-sensors-capture.git
 sudo chmod +x sensors_capture.sh
 ```
 
